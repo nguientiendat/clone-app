@@ -1,0 +1,89 @@
+*{
+    width:100%;
+    height:auto;
+    /* border: 2px solid black; */
+
+}
+#main-header{
+    position: fixed;
+    z-index:100;
+    top:0;
+    
+}
+.main-header{
+    display:flex;
+    width:100%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F1EFF2;
+}
+.navbar-logo{
+    width:20%;
+    display:flex;
+    align-items: center;
+    padding: 0px 
+}
+.navbar-logo #logoHeader {
+    width:100%;
+}
+.navbar-bars {
+    width:40%;
+    position: relative;
+}
+.navbar-bars #subMenu{
+    display:flex;
+    padding: 0px;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    margin:0px
+    
+}
+.navbar-bars #subMenu .navbar{
+    list-style: none;
+}
+
+.navbar-bars #subMenu .compostitionParentmenu{
+    font-size: 2vh;
+    color:black;
+    text-decoration: none;
+    font-weight:700;
+    padding: 10px 0px;
+    position: relative;
+
+}
+.compostitionParentmenu::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 0;
+    height: 3px;
+    background-color: black;
+    transition: width 0.3s ease;
+    transform: translateX(-50%); 
+    /* Dịch chuyển phần tử về chính giữa */
+
+}
+.compostitionParentmenu:hover::after {
+    width:100%;
+}
+.navbar-search{
+    width:30%;
+}
+.searchMenu{
+    display:flex;
+}
+
+.compositionsIconMenu{
+    display:flex;
+    align-items: center;
+}
+.compositionsIconMenu .compositionIconMenu{
+    color:black;
+    font-size: 150%;
+    display:flex;
+    padding-left:10%
+    
+
+}

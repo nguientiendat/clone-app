@@ -1,0 +1,37 @@
+
+.navbar:hover .submenu {
+    opacity: 1; /* Hiển thị submenu */
+    transform: translateY(0); /* Đưa submenu về vị trí ban đầu */
+    text-align: center;
+}
+
+.submenu {
+    display: block; /* Hiển thị khối */
+    opacity: 0; /* Ban đầu submenu ẩn */
+    transform: translateY(-10px); /* Dịch xuống một chút */
+    transition: opacity 0.4s ease, transform 0.4s ease; /* Hiệu ứng từ từ */
+    width: auto;
+    padding: 10px 0;
+    /* margin-top:300%/ */
+    position: absolute;
+    top:100%
+
+}
+.compostitionSubmenu{
+    list-style: none;
+    /* position: absolute; */
+    background-color: rgba(32, 32, 32, 0.7) /* 80% độ trong suốt */;
+    width:100%;
+    margin-top:1px;
+    padding:10px;
+
+}
+.compostitionSubmenu a{
+    font-size: 2vh;
+    color:white;
+    text-decoration: none;
+    font-weight:700;
+    padding: 10px 0px;
+}
+
+
