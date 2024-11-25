@@ -1,69 +1,70 @@
+import { Link } from "react-router";
 function BarMenu() {
   return (
     <ul id="subMenu">
       <li className="navbar offer">
-        <a href="" className="compostitionParentmenu">
+        <Link to="uu-dai" className="compostitionParentmenu">
           ƯU ĐÃI
-        </a>
+        </Link>
         <ul className="submenu">
           <li className="compostitionSubmenu">
-            <a href="">Mua 2 tặng 1</a>
+            <Link to="mua-2-tang-1">Mua 2 tặng 1</Link>
           </li>
         </ul>
       </li>
       <li className="navbar shop">
-        <a href="" className="compostitionParentmenu">
+        <Link to="shop" className="compostitionParentmenu">
           SHOP
-        </a>
+        </Link>
         <ul className="submenu">
           <li className="compostitionSubmenu">
-            <a href="">TOPS</a>
+            <Link to="tops">TOPS</Link>
           </li>
           <li className="compostitionSubmenu">
-            <a href="">BOTTOMS</a>
+            <Link to="bottoms">BOTTOMS</Link>
           </li>
           <li className="compostitionSubmenu">
-            <a href="">ACCESSORIES</a>
+            <Link to="accessories">ACCESSORIES</Link>
           </li>
           <li className="compostitionSubmenu">
-            <a href="">BAGS</a>
+            <Link to="bags">BAGS</Link>
           </li>
           <li className="compostitionSubmenu">
-            <a href="">WOMENSWEAR</a>
+            <Link to="womenswear">WOMENSWEAR</Link>
           </li>
           <li className="compostitionSubmenu">
-            <a href="">RESTOCKS</a>
+            <Link to="restock">RESTOCKS</Link>
           </li>
           <li className="compostitionSubmenu">
-            <a href="">COMBO</a>
+            <Link to="combo">COMBO</Link>
           </li>
         </ul>
       </li>
       <li className="navbar ft">
-        <a href="" className="compostitionParentmenu">
+        <Link to="" className="compostitionParentmenu">
           DRAGON BALL'Z
-        </a>
+        </Link>
         <ul className="submenu">
           <li className="compostitionSubmenu">
-            <a>DBZ-TOPS</a>
+            <Link to="dbz-tops">DBZ-TOPS</Link>
           </li>
           <li className="compostitionSubmenu">
-            <a>DBZ-OUTERWEAR</a>
+            <Link to="dbz-outerwear">DBZ-OUTERWEAR</Link>
           </li>
           <li className="compostitionSubmenu">
-            <a>DBZ-GOKU</a>
+            <Link to="dbz-goku">DBZ-GOKU</Link>
           </li>
         </ul>
       </li>
       <li className="navbar contact">
-        <a href="" className="compostitionParentmenu">
+        <Link to="" className="compostitionParentmenu">
           CONTACT
-        </a>
+        </Link>
       </li>
       <li className="navbar aboutus">
-        <a href="" className="compostitionParentmenu">
+        <Link to="" className="compostitionParentmenu">
           ABOUT US
-        </a>
+        </Link>
       </li>
     </ul>
   );

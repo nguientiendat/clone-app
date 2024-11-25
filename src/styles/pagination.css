@@ -1,0 +1,15 @@
+.pagination{
+
+    border-top: 1px solid;
+    padding-top:7%
+}
+.page-item{
+    width:5%;
+}
+.page-link{
+    color: black
+}
+.pagination .active .page-link {
+  background-color: black;
+  color:white
+}

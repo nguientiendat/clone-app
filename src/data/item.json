@@ -1,0 +1,227 @@
+{
+    "item": [
+      {
+        "id": 1,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/2-2a242740-0827-4f96-9940-1496530e222f.jpg?v=1726828901493",
+        "name": "DC | DBZ LOGO VARSITY JACKET",
+        "price": "1.290.000đ",
+        "description": "A varsity jacket with the DBZ logo and Dragon Balls graphic."
+      },
+      {
+        "id": 2,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/2-6fdd7cba-5132-4e92-b7e9-7a6509f6a97c.jpg?v=1726829087050",
+        "name": "DC | DBZ LOGO VARSITY JACKET",
+        "price": "1.290.000đ",
+        "description": "Another view of the DBZ Varsity Jacket featuring the logo and Dragon Balls."
+      },
+      {
+        "id": 3,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/2-6fdd7cba-5132-4e92-b7e9-7a6509f6a97c.jpg?v=1726829087050",
+        "name": "DC | DBZ DRAGON TEAM T-SHIRT",
+        "price": "420.000đ",
+        "description": "A white t-shirt featuring the Dragon Team from Dragon Ball Z."
+      },
+      {
+        "id": 4,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-5c9848ce-3607-40af-8f5e-b991b62c34df.jpg?v=1726827943413",
+        "name": "DC | DBZ GOKU & SHENRON T-SHIRT",
+        "price": "499.000đ",
+        "description": "A t-shirt featuring Goku and Shenron from Dragon Ball Z."
+      },
+      {
+        "id": 5,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-a906c4fb-448e-46a8-8f44-be95e17ada05.jpg?v=1732161532760",
+        "name": "'MASEW' PLAY TO WIN HOODIE",
+        "price": "720.000đ",
+        "description": "A stylish hoodie with the slogan 'If I Play, I Play to Win'."
+      },
+      {
+        "id": 6,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-960d7522-6943-4c90-a055-0cb2b984e4df.jpg?v=1732182217887",
+        "name": "DC X THE UNDERDOGS T-SHIRT BLACK",
+        "price": "399.000đ",
+        "description": "A black t-shirt featuring the 'Underdogs' graphic from DC."
+      },
+      {
+        "id": 7,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-9586932a-317c-4423-9847-b0fa9db18ba2.jpg?v=1727178389160",
+        "name": "ÁO THUN FOOTBALL JERSEY DC X",
+        "price": "550.000đ",
+        "description": "A white football jersey with the DC logo and sponsor patches."
+      },
+      {
+        "id": 8,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-976ec685-1073-4c78-ac6d-9feb4806fa1e.jpg?v=1729735547007",
+        "name": "DC | DBZ GOKU SS KEYCHAIN",
+        "price": "99.000đ",
+        "description": "A keychain featuring Goku from Dragon Ball Z."
+      },
+      {
+        "id": 9,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-2b64434e-bb84-4289-ab85-8930c632f4f3.jpg?v=1726824873953",
+        "name": "DC | DBZ LOGO VARSITY JACKET",
+        "price": "1.290.000đ",
+        "description": "Another view of the DBZ Varsity Jacket featuring the logo and Dragon Balls."
+      },
+      {
+        "id": 10,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-2b64434e-bb84-4289-ab85-8930c632f4f3.jpg?v=1726824873953",
+        "name": "DC | DBZ DRAGON TEAM T-SHIRT",
+        "price": "420.000đ",
+        "description": "A white t-shirt featuring the Dragon Team from Dragon Ball Z."
+      },
+      {
+        "id": 11,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/2-18d4a6fa-a823-431f-998a-944768cfeef5.jpg?v=1726825101173",
+        "name": "DC | DBZ GOKU & SHENRON T-SHIRT",
+        "price": "499.000đ",
+        "description": "A t-shirt featuring Goku and Shenron from Dragon Ball Z."
+      },
+      {
+        "id": 12,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/2-233d1e75-c4a6-4086-8f34-036d5d1c0694.jpg?v=1726824290593",
+        "name": "'MASEW' PLAY TO WIN HOODIE",
+        "price": "720.000đ",
+        "description": "A stylish hoodie with the slogan 'If I Play, I Play to Win'."
+      },
+      {
+        "id": 13,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-683ac5ce-0548-4a00-89bc-4df847b02a83.jpg?v=1726825968533",
+        "name": "DC X THE UNDERDOGS T-SHIRT BLACK",
+        "price": "399.000đ",
+        "description": "A black t-shirt featuring the 'Underdogs' graphic from DC."
+      },
+      {
+        "id": 14,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-37e9dc71-9397-4bc8-a9c2-612f8ab5549b.jpg?v=1727237432103",
+        "name": "ÁO THUN FOOTBALL JERSEY DC X",
+        "price": "550.000đ",
+        "description": "A white football jersey with the DC logo and sponsor patches."
+      },
+      {
+        "id": 15,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-fcf0bd22-079f-4ae0-9b78-02af66124504.jpg?v=1726824429843",
+        "name": "DC | DBZ GOKU SS KEYCHAIN",
+        "price": "99.000đ",
+        "description": "A keychain featuring Goku from Dragon Ball Z."
+      }, {
+        "id": 16,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-976ec685-1073-4c78-ac6d-9feb4806fa1e.jpg?v=1729735547007",
+        "name": "DC | DBZ GOKU SS KEYCHAIN",
+        "price": "99.000đ",
+        "description": "A keychain featuring Goku from Dragon Ball Z."
+      },
+      {
+        "id": 17,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/2-2a242740-0827-4f96-9940-1496530e222f.jpg?v=1726828901493",
+        "name": "DC | DBZ LOGO VARSITY JACKET",
+        "price": "1.290.000đ",
+        "description": "A varsity jacket with the DBZ logo and Dragon Balls graphic."
+      },
+      {
+        "id": 18,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/2-6fdd7cba-5132-4e92-b7e9-7a6509f6a97c.jpg?v=1726829087050",
+        "name": "DC | DBZ LOGO VARSITY JACKET",
+        "price": "1.290.000đ",
+        "description": "Another view of the DBZ Varsity Jacket featuring the logo and Dragon Balls."
+      },
+      {
+        "id": 19,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/2-6fdd7cba-5132-4e92-b7e9-7a6509f6a97c.jpg?v=1726829087050",
+        "name": "DC | DBZ DRAGON TEAM T-SHIRT",
+        "price": "420.000đ",
+        "description": "A white t-shirt featuring the Dragon Team from Dragon Ball Z."
+      },
+      {
+        "id": 20,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-5c9848ce-3607-40af-8f5e-b991b62c34df.jpg?v=1726827943413",
+        "name": "DC | DBZ GOKU & SHENRON T-SHIRT",
+        "price": "499.000đ",
+        "description": "A t-shirt featuring Goku and Shenron from Dragon Ball Z."
+      },
+      {
+        "id": 21,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-a906c4fb-448e-46a8-8f44-be95e17ada05.jpg?v=1732161532760",
+        "name": "'MASEW' PLAY TO WIN HOODIE",
+        "price": "720.000đ",
+        "description": "A stylish hoodie with the slogan 'If I Play, I Play to Win'."
+      },
+      {
+        "id": 22,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-960d7522-6943-4c90-a055-0cb2b984e4df.jpg?v=1732182217887",
+        "name": "DC X THE UNDERDOGS T-SHIRT BLACK",
+        "price": "399.000đ",
+        "description": "A black t-shirt featuring the 'Underdogs' graphic from DC."
+      },
+      {
+        "id": 23,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-9586932a-317c-4423-9847-b0fa9db18ba2.jpg?v=1727178389160",
+        "name": "ÁO THUN FOOTBALL JERSEY DC X",
+        "price": "550.000đ",
+        "description": "A white football jersey with the DC logo and sponsor patches."
+      },
+      {
+        "id": 24,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-976ec685-1073-4c78-ac6d-9feb4806fa1e.jpg?v=1729735547007",
+        "name": "DC | DBZ GOKU SS KEYCHAIN",
+        "price": "99.000đ",
+        "description": "A keychain featuring Goku from Dragon Ball Z."
+      },
+      {
+        "id": 25,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-2b64434e-bb84-4289-ab85-8930c632f4f3.jpg?v=1726824873953",
+        "name": "DC | DBZ LOGO VARSITY JACKET",
+        "price": "1.290.000đ",
+        "description": "Another view of the DBZ Varsity Jacket featuring the logo and Dragon Balls."
+      },
+      {
+        "id": 26,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-2b64434e-bb84-4289-ab85-8930c632f4f3.jpg?v=1726824873953",
+        "name": "DC | DBZ DRAGON TEAM T-SHIRT",
+        "price": "420.000đ",
+        "description": "A white t-shirt featuring the Dragon Team from Dragon Ball Z."
+      },
+      {
+        "id": 27,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/2-18d4a6fa-a823-431f-998a-944768cfeef5.jpg?v=1726825101173",
+        "name": "DC | DBZ GOKU & SHENRON T-SHIRT",
+        "price": "499.000đ",
+        "description": "A t-shirt featuring Goku and Shenron from Dragon Ball Z."
+      },
+      {
+        "id": 28,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/2-233d1e75-c4a6-4086-8f34-036d5d1c0694.jpg?v=1726824290593",
+        "name": "'MASEW' PLAY TO WIN HOODIE",
+        "price": "720.000đ",
+        "description": "A stylish hoodie with the slogan 'If I Play, I Play to Win'."
+      },
+      {
+        "id": 29,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-683ac5ce-0548-4a00-89bc-4df847b02a83.jpg?v=1726825968533",
+        "name": "DC X THE UNDERDOGS T-SHIRT BLACK",
+        "price": "399.000đ",
+        "description": "A black t-shirt featuring the 'Underdogs' graphic from DC."
+      },
+      {
+        "id": 30,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-37e9dc71-9397-4bc8-a9c2-612f8ab5549b.jpg?v=1727237432103",
+        "name": "ÁO THUN FOOTBALL JERSEY DC X",
+        "price": "550.000đ",
+        "description": "A white football jersey with the DC logo and sponsor patches."
+      },
+      {
+        "id": 31,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-fcf0bd22-079f-4ae0-9b78-02af66124504.jpg?v=1726824429843",
+        "name": "DC | DBZ GOKU SS KEYCHAIN",
+        "price": "99.000đ",
+        "description": "A keychain featuring Goku from Dragon Ball Z."
+      }, {
+        "id": 32,
+        "src": "https://bizweb.dktcdn.net/100/369/010/products/1-976ec685-1073-4c78-ac6d-9feb4806fa1e.jpg?v=1729735547007",
+        "name": "DC | DBZ GOKU SS KEYCHAIN",
+        "price": "99.000đ",
+        "description": "A keychain featuring Goku from Dragon Ball Z."
+      }
+    ]
+  }
+  

@@ -1,4 +1,5 @@
-[
+{
+  "slides": [
     {
       "src": "//bizweb.dktcdn.net/100/369/010/themes/914385/assets/slide-img1.jpg?1731346285510",
       "alt": "First slide",
@@ -6,16 +7,10 @@
       "description": "Nulla vitae elit libero, a pharetra augue mollis interdum."
     },
     {
-      "src": "//bizweb.dktcdn.net/100/369/010/themes/914385/assets/slide-img1.jpg?1731346285510",
+      "src": "//bizweb.dktcdn.net/100/369/010/themes/914385/assets/slide-img2.jpg?1732209023180",
       "alt": "Second slide",
       "label": "Second slide label",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    },
-    {
-      "src": "//bizweb.dktcdn.net/100/369/010/themes/914385/assets/slide-img1.jpg?1731346285510",
-      "alt": "Third slide",
-      "label": "Third slide label",
-      "description": "Praesent commodo cursus magna, vel scelerisque nisl consectetur."
     }
   ]
-  
+}

@@ -1,34 +1,29 @@
-import MainHeader from "../components/header/Header";
+// import Header from "../components/header/Header";
 import "../styles/main.css";
 import "../styles/submenu.css";
-import Body from "../components/body/Body";
+// import Body from "../components/body/Body";
+// import Footer from "../components/footer/Footer";
 import "../assets/css/bootstrap.min.css";
 import "../styles/carousel.css";
-function App() {
+import "../styles/ListItem.css";
+import "../styles/pagination.css";
+import "../styles/brand.css";
+import "../styles/footer.css";
+import Layout from "./Layout.js";
+import { Routes, Route } from "react-router";
+import Uudai from "../page/Uudai.js";
+// import {}
+const App = () => {
   return (
     <div className="App">
-      <div>
-        <MainHeader></MainHeader>
-      </div>
-      <div>
-        <Body />
-      </div>
-      {/* <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header> */}
+      <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<Layout />} />
+          <Route path="uu-dai" element={<Uudai />} />
+        </Route>
+      </Routes>
     </div>
   );
-}
+};
 
 export default App;

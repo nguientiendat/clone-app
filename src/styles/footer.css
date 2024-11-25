@@ -1,0 +1,79 @@
+.composition-footer{
+    display:flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+.hotline{
+    background-color:#F1EFF2 ;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    /* height:80px */
+    padding-top:10px;
+}
+.line-hotline a{
+    text-decoration: none;
+    color:red
+
+}
+.fa-phone{
+    width:auto;
+    font-size:30px;
+    margin:10px;
+}
+.address{
+    /* margin:20px; */
+    box-sizing: border-box;
+    width:100%;
+    padding:20px
+}
+.detail-address{
+    display:flex;
+    padding:0;
+    width:100%
+}
+.icon-location{
+    width:auto;
+    list-style:none;
+    margin:5px
+}
+.fa-location-dot{
+    /* width:5px; */
+}
+.location-shop{
+    list-style: none;
+}
+.name-city{
+    list-style: none;
+}
+.name-address{
+    padding:0;
+    width:100%
+}
+.bold{
+    font-weight: 700;
+}
+.bold{
+    
+}
+.composition-footer{
+    display:flex
+}
+.icon-social-network{
+    display:flex;
+    padding-top:10px;
+    padding-left:0
+}
+.icon-social-network .composition-social-network {
+    list-style: none;
+    width:60px;
+}
+.icon-social-network .composition-social-network .fa-brands {
+    font-size:40px;
+}
+.composition-policy p{
+    margin-bottom:8px
+}
+
+
