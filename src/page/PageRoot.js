@@ -1,23 +1,19 @@
-import React from "react";
-import { Outlet } from "react-router";
 import Header from "../components/header/Header.js";
 import Footer from "../components/footer/Footer.js";
 import Body from "../components/body/Body.js";
-
-const Layout = () => {
+function PageRoot() {
   return (
     <>
-      <div clssName="layout-header">
+      <div className="pageroot-header">
         <Header />
       </div>
-      <div clssName="layout-body">
-        <Outlet />
+      <div className="pageroot-body">
+        <Body />
       </div>
-      <div clssName="layout-footer">
+      <div className="pageroot-footer">
         <Footer />
       </div>
     </>
   );
-};
-
-export default Layout;
+}
+export default PageRoot;

@@ -1,10 +1,14 @@
-const Uudai = () => {
+function Uudai() {
+  const style = {
+    paddingTop: "100px",
+  };
   return (
-    <div>
-      <h1>Ưu Đãi</h1>
-      <p>Đây là trang ưu đãi</p>
-    </div>
+    <>
+      <div className="container" style={style}>
+        <p>Nguyen Tien Dat</p>
+      </div>
+    </>
   );
-};
+}
 
 export default Uudai;
