@@ -1,0 +1,28 @@
+.banner{
+    background-image: url('../assets/images/slide-img1.webp') ;
+    padding:200px;
+    background-position: center;
+   text-align: center;
+   width:100%;
+}
+.banner-sale{
+    /* width:50%; */
+    font-size: 30px;
+}
+.dropdown .btn-group {
+    /* width:10% */
+
+}
+
+
+.d-flex{
+    width:80%;
+    margin:0;
+}
+.btn{
+    border:none !important;
+    /* font-size: */
+}
+.btn .btn-outline-secondary :hover{
+    background-color: white !important;
+}

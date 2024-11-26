@@ -1,5 +1,5 @@
 import Pagination from "react-bootstrap/Pagination";
-
+import { Link } from "react-router";
 import React, { useState, useEffect, useRef } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -49,11 +49,13 @@ function ListItem() {
         {currentProducts.map((product) => {
           return (
             <div className="product-item" key={product.id}>
-              <img src={product.src} alt={product.name} />
-              <p className="nameItem">{product.name}</p>
-              <span>
-                <p className="price-item">{product.price}</p>
-              </span>
+              <Link to={`/product/${product.id}`}>
+                <img src={product.src} alt={product.name} />
+                <p className="nameItem">{product.name}</p>
+                <span>
+                  <p className="price-item">{product.price}</p>
+                </span>
+              </Link>
             </div>
           );
         })}

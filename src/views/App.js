@@ -13,6 +13,8 @@ import Layout from "./Layout.js";
 import { Routes, Route } from "react-router";
 import Uudai from "../page/Uudai.js";
 import PageRoot from "../page/PageRoot.js";
+import "../styles/uudai.css";
+
 // import {}
 const App = () => {
   return (
