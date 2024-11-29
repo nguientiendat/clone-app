@@ -8,9 +8,13 @@
     position: fixed;
     z-index:100;
     top:0;
+    width:100%;
     /* overflow: hidden; */
 
     
+}
+.carousel-indicators{
+    margin: 0px !important;
 }
 .main-header{
     display:flex;
@@ -18,6 +22,7 @@
     justify-content: space-between;
     align-items: center;
     background-color: #F1EFF2;
+    /* overflow: hidden; */
 }
 .navbar-logo{
     width:20%;
@@ -86,6 +91,72 @@
     font-size: 150%;
     display:flex;
     padding-left:10%
-    
+}
 
+.pop-up{
+    width:100%;
+    display:flex;
+}
+
+.pop-up-text{
+ width:auto
+}
+
+.Toastify__close-button{
+    position: absolute;
+    /* right:-0 */
+    left:0
+}
+.Toastify__toast {
+    position: relative;
+
+}
+.searchMenu {
+    width:100%
+}
+.searchMenu input{
+    height:40px;
+    border:5px solid rgba(255, 255, 255, 1);
+    padding:10px;
+    border-radius: 10px
+}
+.compositionsIconMenu {
+    width:100%;
+    padding:0px 70px;
+}
+.processimg{
+    width:100%;
+    display:flex;
+    justify-content: center;
+    /* padding:20px; */
+    margin:20px;
+}
+.processimg img {
+    width:40%
+}
+.process{
+    display:grid;
+    justify-content: center;
+    align-items: center;
+}
+.box-btn-return{
+    width:100%;
+    display:flex;
+    /* justify-content: center;
+     */
+     text-align: center;
+     padding-top:50px;
+     /* padding-left:30px; */
+     justify-content: center;
+}
+.returnindex{
+    width:auto;
+    margin-left:37px
+}
+.btn-return  {
+    width:auto;
+    margin: 0px !important;
+    /* border-radius: 10%!important; */
+    height:50px;
+    
 }

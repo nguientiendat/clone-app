@@ -1,17 +1,15 @@
+import { Link } from "react-router";
 function Search() {
   return (
     <div className="searchMenu">
       <input type="search" placeholder="Nhập sản phẩm muốn tìm" />
       <div className="compositionsIconMenu">
-        <a className="compositionIconMenu home" href="">
-          <i className="fas fa-home"></i>
-        </a>
-        <a className="compositionIconMenu bag" href="">
+        <Link className="compositionIconMenu bag" to="bag">
           <i className="fa-solid fa-bag-shopping"></i>
-        </a>
-        <a className="compositionIconMenu user" href="">
+        </Link>
+        <Link className="compositionIconMenu user" to="user">
           <i className="fa-solid fa-user"></i>
-        </a>
+        </Link>
       </div>
     </div>
   );

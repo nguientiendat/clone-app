@@ -24,6 +24,7 @@ function ListItem() {
     // Cuộn đến phần tử danh sách
     if (listRef.current) {
       listRef.current.scrollIntoView({ behavior: "smooth", block: "start" });
+      window.scrollBy(0, -800); // Cuộn lên 300px theo trục Y (theo chiều dọc)
     }
   }, [currentPage]);
 
@@ -42,14 +43,14 @@ function ListItem() {
     (currentPage - 1) * itemPerpage,
     currentPage * itemPerpage
   );
-  console.log(setCurrentPage);
+  // console.log(setCurrentPage);
   return (
     <>
-      <div ref={listRef} className="product-list">
+      <div className="product-list" ref={listRef}>
         {currentProducts.map((product) => {
           return (
             <div className="product-item" key={product.id}>
-              <Link to={`/product/${product.id}`}>
+              <Link to={`/${product.id}/product`} className="link-text">
                 <img src={product.src} alt={product.name} />
                 <p className="nameItem">{product.name}</p>
                 <span>

@@ -1,11 +1,12 @@
+import React from "react";
 import SideBar from "../components/body/SideBar.js";
 
 import ListItem from "../components/body/ListItem";
-function Uudai() {
+function Shop() {
   return (
     <>
       <div className="body-page">
-        <div className="banner-uudai"></div>
+        <div className="banner-shop"></div>
         <div className="container">
           <SideBar />
           <div className="list-item">
@@ -17,4 +18,4 @@ function Uudai() {
   );
 }
 
-export default Uudai;
+export default Shop;

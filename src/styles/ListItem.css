@@ -22,3 +22,8 @@
 
 
 }
+/* .product-item */
+.link-text {
+    text-decoration: none;
+    color: black
+}

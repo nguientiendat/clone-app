@@ -1,0 +1,93 @@
+.container {
+    margin-top:100px
+}
+.detail-product {
+    display:flex;
+    width:100%;
+}
+.detail-product-img{
+    width:60%;
+    padding:10px;
+}
+.detail-product-img img {
+    width:100%
+}
+.product-item-detail{
+    width:40%;
+    padding: 40px;
+    margin-top:40px;
+    
+}
+.product-name{
+    font-size:3vh;
+}
+.product-price{
+    font-size:2.5vh;
+
+    font-weight:600
+}
+.btn-size{
+    display:flex;
+    /* border:2px solid black
+     */
+     /* border:2px solid black */
+}
+.btn-light{
+    /* <Button variant="light">Light</Button> */
+     border:2px solid black !important;
+    /* padding:5px
+     */
+     margin:5px;
+     font-size: 12px;
+
+}
+.active{
+    /* background-color: blue; */
+}
+.btn-secondary{
+    /* <Button variant="light">Light</Button> */
+     border:2px solid black !important;
+    /* padding:5px
+     */
+     margin:5px;
+     font-size: 12px;
+}
+.btn-dark{
+    margin:5px 5px 0px 5px
+}
+.link-detail{
+    margin-top:20px;
+}
+.location-detect{
+    background-color: rgb(245, 245, 245);
+    text-align:center;
+    margin: 0px 0px 0px 5px
+}
+.location-ship{
+    font-weight:600;
+    margin-bottom:10px
+}
+.line{
+    background-color: black;
+    width:100%;
+    height:1px
+    
+}
+.infor-store-hn{
+    padding:10px;
+    font-size:12px
+}
+.detail-item{
+    
+}
+.infor-item{
+    font-size: 13px;
+}
+.row {
+    text-align: center;
+}
+.row a {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+}

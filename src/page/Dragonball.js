@@ -1,11 +1,11 @@
+import React from "react";
 import SideBar from "../components/body/SideBar.js";
-
 import ListItem from "../components/body/ListItem";
-function Uudai() {
+function Dragonball() {
   return (
     <>
       <div className="body-page">
-        <div className="banner-uudai"></div>
+        <div className="banner-dragonball"></div>
         <div className="container">
           <SideBar />
           <div className="list-item">
@@ -17,4 +17,4 @@ function Uudai() {
   );
 }
 
-export default Uudai;
+export default Dragonball;

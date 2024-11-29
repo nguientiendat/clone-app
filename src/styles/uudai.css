@@ -1,5 +1,22 @@
-.banner{
+.body-page{
+    padding-top:100px
+}
+.banner-shop {
+    background-image: url('../assets/images/shop.webp') ;
+    padding:200px;
+    background-position: center;
+   text-align: center;
+   width:100%;
+}
+.banner-uudai{
     background-image: url('../assets/images/slide-img1.webp') ;
+    padding:200px;
+    background-position: center;
+   text-align: center;
+   width:100%;
+}
+.banner-dragonball{
+    background-image: url('../assets/images/website-banner-2.webp') ;
     padding:200px;
     background-position: center;
    text-align: center;
@@ -26,3 +43,11 @@
 .btn .btn-outline-secondary :hover{
     background-color: white !important;
 }
+.list-img{
+    width:100%;
+    display:grid !important;
+    grid-template-columns: 15% 15% 15% 15% 15%!important;
+    justify-content: space-between;
+
+}
+

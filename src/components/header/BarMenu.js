@@ -41,7 +41,7 @@ function BarMenu() {
         </ul>
       </li>
       <li className="navbar ft">
-        <Link to="" className="compostitionParentmenu">
+        <Link to="dragonball" className="compostitionParentmenu">
           DRAGON BALL'Z
         </Link>
         <ul className="submenu">
@@ -57,12 +57,12 @@ function BarMenu() {
         </ul>
       </li>
       <li className="navbar contact">
-        <Link to="" className="compostitionParentmenu">
+        <Link to="contact" className="compostitionParentmenu">
           CONTACT
         </Link>
       </li>
       <li className="navbar aboutus">
-        <Link to="" className="compostitionParentmenu">
+        <Link to="aboutus" className="compostitionParentmenu">
           ABOUT US
         </Link>
       </li>

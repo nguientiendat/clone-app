@@ -1,0 +1,27 @@
+.form-user{
+    margin-top:100px;
+    padding:50px 150px;
+    display: flex;
+    /* margin:0px 100px; */
+  
+}
+.login{
+    margin:0px 30px;
+}
+.create{
+    margin:0px 30px;
+}
+.form-user input{
+    margin-bottom:20px;
+    /* border-radius: 2px solid; */
+    height:35px;
+    padding-left:30px
+}
+.btn-login{
+    margin: 0px !important;
+}
+.btn-create{
+    margin: 0px !important;
+    
+}
+
